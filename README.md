@@ -46,8 +46,6 @@ properly takes in a file because it gets the first two lines of it and prints it
 
 If you try to compile everything all at once it will not work, but if you compile and run just the main main.cpp will run along with other classes that are directly attached to it like File.cpp and GameOfLife.cpp
 
-For cell.h/cpp individually implementing, it could get the rows and columns and print the cell board. Due to time constraints we have a set percentage alive cells of 0.35%.
-
 
 References:
 Nick - general outline, helped organize the classes
@@ -64,4 +62,4 @@ organization (C-based) https://www.youtube.com/watch?v=flYIkz4XHQc
 Displaying and Randomness (C-based) https://www.youtube.com/watch?v=zrA77vUSli4
 Neighbor counting (C-based) https://www.youtube.com/watch?v=bg3Emk0yhhM
 
-Sorry it's not C++, we wanted to turn something in and learn so we watched a tutorial that was similar to the language being taught. We tried to modify it to work on a c++ language platform. 
+Sorry it's not C++, we wanted to turn something in and learn so we watched a tutorial that was similar to the language being taught. We tried to modify it to work on a c++ language platform.
