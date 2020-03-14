@@ -1,4 +1,5 @@
 # GameOfLife
+# GameOfLife
 
 Data Structures Assignment2
 
@@ -54,7 +55,13 @@ Dan - general outline
 Ryan - file boolean isGood portion
 How to print a 2d array: https://www.geeksforgeeks.org/print-2d-matrix-in-different-lines-and-without-curly-braces-in-cc/
 How to make cell class: http://www.cplusplus.com/doc/tutorial/classes/
-Show percentage of alive cell & displaying https://www.youtube.com/watch?v=flYIkz4XHQc
 reading a file: https://gist.github.com/stevedoyle/1319089
 finding a certain string (".txt") https://www.tutorialspoint.com/How-to-check-if-a-string-contains-a-certain-word-in-Chash
 how to make boarder around a 2d array: http://www.cplusplus.com/forum/beginner/118196/
+presses the enter key (acts like a pause function) https://www.geeksforgeeks.org/system-call-in-c/
+Follow the tutorial:
+organization (C-based) https://www.youtube.com/watch?v=flYIkz4XHQc
+Displaying and Randomness (C-based) https://www.youtube.com/watch?v=zrA77vUSli4
+Neighbor counting (C-based) https://www.youtube.com/watch?v=bg3Emk0yhhM
+
+Sorry it's not C++, we wanted to turn something in and learn so we watched a tutorial that was similar to the language being taught. We tried to modify it to work on a c++ language platform. 
