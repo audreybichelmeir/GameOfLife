@@ -1,5 +1,4 @@
 # GameOfLife
-# GameOfLife
 
 Data Structures Assignment2
 
